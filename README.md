@@ -1,1 +1,3 @@
-# IMDB-Prediction
+•	Determine correlation, and impact of the respective quantitative and qualitative explanatory variables: number of user reviews, number of critics, duration of movie, budget, number of cast Facebook likes, number of director Facebook likes, country of origin, and content rating on the dependent variables Success (Revenue - Budget) and IMDB rating
+•	Using tests of hypothesis, make determinations of whether the explanatory variables are significant in the outcome of success, and the IMDB ratings and also the overall significance of the model. 
+•	Make predictions on IMDB_scrore based on linear regression model, formed by methods: manual-backwards elimination, and adjusted R2, etc. and also use logistic regression to determine the significant variables that have an impact on the response variable, success or failure of the movie.
